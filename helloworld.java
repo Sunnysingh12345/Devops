@@ -4,6 +4,7 @@ class Simple
   {
     System.out.println("Hello Hi This is First Java Prgs Looks Good_nEw Changews For Email Notifications For Pipelines jobs");
     System.out.println("*******************HI This is*****************************************************************************");
+    System.out.println("*******************HI This is*****************************************************************************");
   }
 }
   
